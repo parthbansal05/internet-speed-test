@@ -1,2 +1,2 @@
-pip install speedtest-cli
-pip install matplotlib
+speedtest-cli
+matplotlib
